@@ -1,5 +1,4 @@
 Just Started the Git Hub learning 
 from youtube tutorials with sheryians coding school
 now created new repository and chances the file there
-maste repo will not be any changes, its look like as it is
 Now leanring the merging case
